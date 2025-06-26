@@ -1,0 +1,35 @@
+# Node.js (React SPA)
+**/node_modules/
+**/build/
+**/dist/
+**/.env
+**/.env.*
+
+# .NET
+**/bin/
+**/obj/
+**/*.user
+**/*.suo
+**/.vs/
+**/appsettings.*.json
+**/appsettings.Local.json
+**/appsettings.Development.json
+**/Properties/launchSettings.json
+
+# Logs
+**/logs/
+**/*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Others
+.env.local
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docs (optional if you want to ignore raw screenshots)
+# /docs/screenshots/
